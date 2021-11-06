@@ -1,4 +1,6 @@
-# Hello
+# Hi there 👋
+
+![](https://visitor-badge.glitch.me/badge?page_id=gysenlionel.gysenlionel)
 
 ![](./images/anim3.gif)
 ## Presentation
@@ -8,17 +10,17 @@ I like coding and learn new stuff to improve my skills.
 
 ## languages 
 
-|  |            | 
+| 🚧  |            | 
 |------------|------------|
-| javascript | ![](./images/jslogo.png) | 
-| CSS        | ![](./images/css.png) |
-| HTML       | ![](./images/html2.png) |
-| SASS       | ![](./images/sass.png) |
+| javascript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> | 
+| CSS        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/> |
+| HTML       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="30" height="30"/> |
+| SASS       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="30" height="30"/> |
 
 ## Find me
 
 
-[![](./images/linkedin2.png)](https://www.linkedin.com/in/lionel-gysen/) 
+<a href ="https://www.linkedin.com/in/lionel-gysen/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/></a>
 
 ## Stats
 
