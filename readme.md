@@ -8,7 +8,7 @@ I like coding and learn new stuff to improve my skills.
 
 ## languages 
 
-| languagues |            | 
+|  |            | 
 |------------|------------|
 | javascript | ![](./images/jslogo.png) | 
 | CSS        | ![](./images/css.png) |
