@@ -20,6 +20,6 @@ I like coding and learn new stuff to improve my skills.
 
 ## Stats
 
-[![Les Stats GitHub de Anurag]](https://github-readme-stats.vercel.app/api?username=gysenlionel&theme=tokyonight&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=gysenlionel&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
